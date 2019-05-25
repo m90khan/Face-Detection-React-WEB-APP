@@ -1,4 +1,4 @@
-Face-Detection React APP
+# Face-Detection React APP
 
 ## What its Does:
 This App is built in React which can detects faces in the photos using Clarifai Api
@@ -31,4 +31,4 @@ Process:
 <img src="home.png">
 <img src="overview.png">
 <p>the api has many different models, I also tested the food ingredients testing model</p>
-<img src="food.png">
+<img src="food.PNG">
