@@ -9,6 +9,8 @@ HTML5, CSS3, JavaScript ES6, React, NPM, Git, Clarifai API
 
 Demo:
 
+Clarifai API: The ‘Face Detection’ model returns probability scores on the likelihood that the image contains human faces and coordinate locations of where those faces appear with a bounding box. 
+
 Process:
 <ol>
 <li>First I made a sketch on paper of what i needed</li>
@@ -30,5 +32,5 @@ Process:
 <img src="signout.png">
 <img src="home.png">
 <img src="overview.png">
-<p>the api has many different models, I also tested the food ingredients testing model</p>
+### <p>the api has many different models, I also tested the food ingredients testing model</p>
 <img src="food.PNG">
